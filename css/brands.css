@@ -104,6 +104,21 @@
   --button-border:1px solid #FFFFFF;
 }
 
+
+/* Behance */
+.button-artstation {
+	--button-text:#ffffff;
+	--button-background:rgb(18, 150, 207);
+  --button-border:1px solid #FFFFFF;
+}
+
+/* Behance */
+.button-sketchfab {
+	--button-text:#ffffff;
+	--button-background:rgb(33, 133, 177);
+  --button-border:1px solid #FFFFFF;
+}
+
 /* Bluesky */
 .button-bluesky {
 	--button-text:#FFFFFF;
